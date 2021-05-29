@@ -13,9 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bootcamp</name>
 	<description>Demo project for Santander Dev Week BackEnd Challenge </description>
-	<properties>
-		<java.version>11</java.version>
-	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
